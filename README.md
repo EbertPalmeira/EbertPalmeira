@@ -1,9 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/EbertPalmeira/EbertPalmeira/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
@@ -23,7 +18,7 @@
 #### Studying in this moment:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+
 
 
 ## Contacts:
