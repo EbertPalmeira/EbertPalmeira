@@ -36,7 +36,7 @@
 </a>
 <a href = "mailto:contato.eberttpalmerass@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ebert-palmeira-613a77228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-<a href="[https://ebertdeveloper.netlify.app/](https://portfolioebert.netlify.app/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  target="_blank"></a> 
+<a href="https://portfolioebert.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
  
