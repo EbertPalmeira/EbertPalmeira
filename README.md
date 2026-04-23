@@ -7,6 +7,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Java;Focado+em+APIs+e+Spring+Boot;Experiência+com+React)
 
+💻 Desenvolvedor focado em Back-end com Java  
+🚀 Estudando Spring Boot e construção de APIs REST  
+⚡ Experiência com React no front-end  
+🎯 Buscando oportunidade como dev júnior
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
