@@ -3,7 +3,7 @@
 
 #### Main Stack:
 
-# 👋 Olá, eu sou o Ebert
+#  Olá, eu sou o Ebert
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Java;Focado+em+APIs+e+Spring+Boot;Experiência+com+React)
 
