@@ -3,6 +3,10 @@
 
 #### Main Stack:
 
+# 👋 Olá, eu sou o Ebert
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Java;Focado+em+APIs+e+Spring+Boot;Experiência+com+React)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -42,12 +46,7 @@
 
 </div>&nbsp;&nbsp;
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+
  
 
   
