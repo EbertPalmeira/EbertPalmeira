@@ -58,7 +58,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EbertPalmeira&show_icons=true&theme=radical)
 
 
  
