@@ -57,7 +57,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EbertPalmeira&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbertPalmeira&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbertPalmeira&layout=compact&theme=tokyonight)
 
